@@ -2,7 +2,7 @@ Please consider donating on Ko-fi if you enjoy the plugin!
 
 https://ko-fi.com/projectmimer
 
-MaskedCarnivale allows you to record, or stream your game without displaying Dalamud plugins.
+**MaskedCarnivale** allows you to record, or stream your game without displaying Dalamud plugins.
 
 The plugin creates a second window in the background which can be recorded using software like OBS.
 
@@ -11,7 +11,7 @@ Optionally you can also have the window display the game without a UI at all, so
 The plugin menu can be displayed by typing /carnivale in chat or by using /carnivale enable or /carnivale disable to start or stop the window.
 
 
-Please note:
+**Please note**:
 
 This plugin only hides overlay plugins, plugins which actually modify the contents of the game still will be visible.
 
@@ -32,7 +32,8 @@ The plugin menu can be displayed by typing /carnivale in chat.
 Have fun streaming the game without suffering bad QoL and horrid latency!
 
 
-HowTo Install
+
+**HowTo Install**
 
 1: Open the Dalamud Settings menu from within the game by clicking the button/menu item or typing /xlsettings in the chat.
 
